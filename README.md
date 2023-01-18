@@ -1,8 +1,11 @@
 <a href='https://tachovendoai.netlify.app/'>Tá chovendo aí?</a>
 
-## 💻 Weather-app
+
+## 💻 Ta chovendo aí?
 
 O ta chovendo aí é um aplicativo que lhe fornece a Temperatura e o clima de uma cidade específica!
+
+<img src="/readme.jpg">
 
 ### Funcionalidades
 
