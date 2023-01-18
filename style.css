@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Arvo&display=swap');
+
+body{
+    margin-top: 100px;
+    font-family: 'Arvo', serif;
+    background: url('./icons/Flat-Mountains.svg');
+    background-repeat: repeat;
+    background-size: cover;
+    background-position: center 90%;
+    filter: saturate(0);
+   
+}
+
+.city{
+    font-size: 32px;
+}
+
+.date {
+    font-size: 16px;
+}
+
+.container-temp{
+    display: flex;
+    justify-content: center;
+    background-color: rgba(32, 31, 30, 0.2);
+    box-shadow: 5px 6px rgba(0, 0, 0, 0.6);
+    cursor: pointer;
+
+    font-size: 100px;
+    font-weight: 900;
+    text-shadow: 3px 6px rgba(0, 0, 0, 0.2);
+    
+}
+
+.weather{
+    font-size: 32px;
+}
+
+.low-high {
+    font-size: 22px;
+}
